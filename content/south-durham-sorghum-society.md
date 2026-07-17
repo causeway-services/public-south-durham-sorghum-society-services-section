@@ -11,9 +11,9 @@ archived personal journal (org-roam) entry, "Sorghum Seed Saving & Swapping"
 
 ## Founding
 
-In spring 2023, emsenn and Es started the South Durham Sorghum Society
-(https://opencollective.com/south-durham-sorghum-society) and hosted a first
-seed swap at Pineywood Park in March 2023. Sorghum seed was shared from
+In spring 2023, emsenn and Es started the [South Durham Sorghum
+Society](https://opencollective.com/south-durham-sorghum-society) and hosted a
+first seed swap at Pineywood Park in March 2023. Sorghum seed was shared from
 sources across Turtle Island, plus China and Africa. Turnout was small, and a
 planned follow-up swap (targeted for around November 2023) never happened —
 contact with attendees lapsed over the season.
@@ -25,9 +25,22 @@ It names two planned 2023 seed swaps (March 12 and November 12), sorghum's
 history as a Piedmont roadside volunteer since colonial settlement, its uses
 (grain, molasses, "broom corn"), and the plan to build a genetically diverse
 grex from swapped and wild seed. The same announcement was also cross-posted
-to r/bullcity; that crosspost is loosely captured (title/URL only — the live
-thread could not be fetched) at
+to r/bullcity; a full transcript of that post and its comment thread (supplied
+directly, since Reddit's site and API both blocked automated fetches) is
+carried at
 `content/documents/articles/posts/posts-for-reddit/2023/02/introducing-the-south-durham-sorghum-society.md`.
+
+That thread is where the society's actual ecological-adaptation reasoning is
+spelled out, in emsenn's reply to a "why not native plants" question: *Sorghum
+bicolor* is non-native but not invasive, it displaces species that are
+invasive rather than crowding out natives (the pre-settlement Piedmont here
+was swampy hardwood forest, not sorghum habitat), and under a changing climate
+it can fill an ecological and material niche that intrusive species currently
+hold — the same logic this node's ownership chain (Turtle Island → Southeast →
+North Carolina → Triangle → this Society) is named for. The thread also
+carries practical detail: molasses yield (~1 quart from ~300 sq ft of Black
+Cane sorghum), sourcing (Coharie Tribe sells pressed syrup near Clinton, NC),
+and popping technique (a whirlypop, high-heat burner).
 
 The society's stated interest was sorghum (*Sorghum bicolor*) as a staple
 grain suited to the Turtle Island Southeast region under a changing climate,

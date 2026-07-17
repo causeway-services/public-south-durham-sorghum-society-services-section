@@ -5,8 +5,6 @@ author: emsenn
 source: https://opencollective.com/south-durham-sorghum-society
 ---
 
-# Introducing the South Durham Sorghum Society
-
 Published on February 12, 2023 by emsenn
 
 The South Durham Sorghum Society is a group of folk in the south part of
