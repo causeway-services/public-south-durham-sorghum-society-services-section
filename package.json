@@ -1,0 +1,11 @@
+{
+  "name": "@emsenn/south-durham-sorghum-society",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "The Triangle team's South Durham Sorghum Society, carried forward from its archived record at lib/emsenn/services/561-group/content/_archive/South Durham Sorghum Society.md.",
+  "keywords": [
+    "metro-enterprise"
+  ],
+  "license": "UNLICENSED"
+}
