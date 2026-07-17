@@ -18,6 +18,17 @@ sources across Turtle Island, plus China and Africa. Turnout was small, and a
 planned follow-up swap (targeted for around November 2023) never happened —
 contact with attendees lapsed over the season.
 
+The society's own founding announcement, published to OpenCollective on
+2023-02-12, is carried in full at
+`content/documents/articles/posts/posts-for-open-collective/2023/02/12/2023-02-12-introducing-the-south-durham-sorghum-society.md`.
+It names two planned 2023 seed swaps (March 12 and November 12), sorghum's
+history as a Piedmont roadside volunteer since colonial settlement, its uses
+(grain, molasses, "broom corn"), and the plan to build a genetically diverse
+grex from swapped and wild seed. The same announcement was also cross-posted
+to r/bullcity; that crosspost is loosely captured (title/URL only — the live
+thread could not be fetched) at
+`content/documents/articles/posts/posts-for-reddit/2023/02/introducing-the-south-durham-sorghum-society.md`.
+
 The society's stated interest was sorghum (*Sorghum bicolor*) as a staple
 grain suited to the Turtle Island Southeast region under a changing climate,
 with seed-saving and seed-swapping as the practice that carries a regional
