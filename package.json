@@ -1,5 +1,5 @@
 {
-  "name": "@emsenn/south-durham-sorghum-society",
+  "name": "@red-cup-engineering/south-durham-sorghum-society",
   "version": "0.1.0",
   "private": true,
   "type": "module",
@@ -8,5 +8,14 @@
     "metro-enterprise",
     "sovereign-state-enterprise"
   ],
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "x-semiotic-voxel": {
+    "profile": "org.harmonious-union.semiotic-voxel.v1",
+    "owner": "red-cup-engineering",
+    "kind": "inert-material",
+    "actor": "urn:ame:south-durham-sorghum-society",
+    "operations": [],
+    "capabilities": [],
+    "package": "@red-cup-engineering/south-durham-sorghum-society"
+  }
 }
