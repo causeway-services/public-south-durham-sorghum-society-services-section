@@ -8,14 +8,5 @@
     "metro-enterprise",
     "sovereign-state-enterprise"
   ],
-  "license": "UNLICENSED",
-  "x-semiotic-voxel": {
-    "profile": "org.harmonious-union.semiotic-voxel.v1",
-    "owner": "red-cup-engineering",
-    "kind": "inert-material",
-    "actor": "urn:ame:south-durham-sorghum-society",
-    "operations": [],
-    "capabilities": [],
-    "package": "@red-cup-engineering/south-durham-sorghum-society"
-  }
+  "license": "UNLICENSED"
 }
