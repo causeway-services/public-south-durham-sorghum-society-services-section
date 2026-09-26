@@ -254,6 +254,4 @@ space to do it and refine it down.
 > fall we'll be able to plan a community blackstrap boil! Definitely by next
 > fall.)
 
-## Earlier material
-
 Published on February 12, 2023 by emsenn
