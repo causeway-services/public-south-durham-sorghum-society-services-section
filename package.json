@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "type": "module",
   "description": "The Triangle team's South Durham Sorghum Society, carried forward from its archived record at services/561-group/content/_archive/South Durham Sorghum Society.md.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/causeway-services/public-services-section.git",
+    "directory": "services/public-ecological-services-section/services/ecological-adaptation-services-section/services/turtle-island-ecological-adaptation-services/services/turtle-island-southeast-regional-ecological-adaptation-service/services/north-carolina-ecological-adaptation-service/services/north-carolina-triangle-ecological-adaptation-team/services/south-durham-sorghum-society"
+  },
   "keywords": [
     "metro-enterprise",
     "sovereign-state-enterprise"
