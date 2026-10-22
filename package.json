@@ -11,5 +11,9 @@
     "metro-enterprise",
     "sovereign-state-enterprise"
   ],
-  "license": "UNLICENSED"
+  "license": "Apache-2.0",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
+  }
 }
