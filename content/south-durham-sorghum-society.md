@@ -12,7 +12,7 @@ archived personal journal (org-roam) entry, "Sorghum Seed Saving & Swapping"
 ## Founding
 
 In spring 2023, emsenn and Es started the [South Durham Sorghum
-Society](https://opencollective.com/south-durham-sorghum-society) and hosted a
+Society](https://opencollective.com/public-south-durham-sorghum-society-services-section) and hosted a
 first seed swap at Pineywood Park in March 2023. Sorghum seed was shared from
 sources across Turtle Island, plus China and Africa. Turnout was small, and a
 planned follow-up swap (targeted for around November 2023) never happened —

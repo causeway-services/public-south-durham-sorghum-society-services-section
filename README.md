@@ -1,4 +1,4 @@
-# south-durham-sorghum-society
+# public-south-durham-sorghum-society-services-section
 
 <!-- 561-group-standards:badges:start -->
 [![Causeway Services](https://img.shields.io/badge/561%20Group-Causeway%20Services-115e69)](https://github.com/causeway-services)
